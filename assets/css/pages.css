@@ -454,6 +454,14 @@ body, #container-wrap { background:#ededed; }
 	.paper-vertical, .paper-horizontal { padding:0; }
 }
 
+#item363 {
+	width:1079px !important;
+	height:10195px !important;
+	left:1px !important;
+	top:1px !important;
+	background:#fff;
+}
+
 #item345 {
 	mix-blend-mode:multiply;
 	width:443px !important;
