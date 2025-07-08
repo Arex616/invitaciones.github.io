@@ -454,4 +454,29 @@ body, #container-wrap { background:#ededed; }
 	.paper-vertical, .paper-horizontal { padding:0; }
 }
 
+#item345 {
+	mix-blend-mode:multiply;
+	width:443px !important;
+	height:61px !important;
+	left:321px !important;
+	top:5249px !important;
+	background:#ffffff;
+}
 
+#item347 {
+	mix-blend-mode:multiply;
+	width:396px !important;
+	height:39px !important;
+	left:85px !important;
+	top:8966px !important;
+	background:#ffffff;
+}
+
+#item349 {
+	mix-blend-mode:multiply;
+	width:396px !important;
+	height:134px !important;
+	left:596px !important;
+	top:8871px !important;
+	background:#ffffff;
+}
