@@ -454,14 +454,6 @@ body, #container-wrap { background:#ededed; }
 	.paper-vertical, .paper-horizontal { padding:0; }
 }
 
-#item363 {
-	width:1079px !important;
-	height:10195px !important;
-	left:1px !important;
-	top:1px !important;
-	background:#fff;
-}
-
 #item345 {
 	mix-blend-mode:multiply;
 	width:443px !important;
@@ -474,9 +466,9 @@ body, #container-wrap { background:#ededed; }
 #item347 {
 	mix-blend-mode:multiply;
 	width:396px !important;
-	height:39px !important;
-	left:85px !important;
-	top:8966px !important;
+	height:126px !important;
+	left:86px !important;
+	top:8871px !important;
 	background:#ffffff;
 }
 
